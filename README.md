@@ -1,2 +1,2 @@
-# CyberSecurityWork
-This is a repo for work I've done thru another course. Will update it very soon!
+# Cyber Security Proposal Project
+This is a repo to showcase a CyberSecurity Proposal Project transforming business requirements into a Proposal.
