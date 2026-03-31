@@ -78,7 +78,7 @@ Ground floor subnets:
       Wireless: 10.1.2.128/25
 
   Access control and Security policies (Task 4):
-  - Advisable to implement access access controls for every subnet to guarantee a secure and well-structured network environment
+  - Advisable to implement access controls for every subnet to guarantee a secure and well-structured network environment
   - Policies within on-premise Firewall should oversee user access to the subnets
   - Azure Policies will be implemented later in security section
   - Highly recommended to install firewalls at the network perimeter to effectively filter inbound/outbound traffic
