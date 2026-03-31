@@ -261,3 +261,7 @@ Ground floor subnets:
     - Testing policies directly inside a production environment poses a threat to security and causes risks in compliance4
     - With well-thought out policies and rigorous testing inside a non-production environment, VIP EVENTS can mitigate security risks,
       protect company data assets, and ensure integrity of IT systems and operations
+
+  # Conclusion
+  - Here is a summary of a cybersecurity proposal for VIP EVENTS:
+    In the "gathering requirments" section, company requirements and business operations were highlighted in order to gain a grasp of what is needed. Devices and     designated users were also considered
