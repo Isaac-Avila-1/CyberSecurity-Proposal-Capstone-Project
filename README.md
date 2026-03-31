@@ -22,4 +22,12 @@ This section will have details in regards to the scope of project, network desig
 - Each floor will have it's devices segmentated within network for security purposes.
 - 32 mobile phones, 11 tablets, 3 laptops, 7 desktop computers
 - WorkStaff (total of 21):
-- CEO, Head Chef, Equipment Manager, 3 office workers, 10 head chefs, 4 equipment handlers. *Transient/Contractor employees*
+- CEO, Head Chef, Equipment Manager, 3 office workers, 10 head chefs, 4 equipment handlers. *Temporary employees*
+- ROLES:
+- Equip Handler, Equip Manager, Chef, Head Chef, Catering Manager, Office/Admin, CEO, Temporary
+
+VIP FOOD APP: functionalities 
+- Equipment management
+- Kitchen Management
+- Event Management
+- Administration
