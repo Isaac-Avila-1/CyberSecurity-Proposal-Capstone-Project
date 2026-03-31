@@ -16,3 +16,7 @@ This section will have details in regards to the scope of project, network desig
   - Ground floor: Loading dock/storage space for machinery
   - First floor: Food prepartion, Kitchen and storage
   - Second floor: Office space and conference rooms
+
+- Info:
+- VIP Events is expanding its' workforce to 21 employees, bringing along 46 mobile devices and 7 fixed devices that will be required to have security access to the new network
+- Each floor will have it's devices segmentated within network for security purposes. 
