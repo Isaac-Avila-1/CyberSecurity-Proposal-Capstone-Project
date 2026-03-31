@@ -76,4 +76,12 @@ Ground floor subnets:
     Guest/Temporary subnets (laptops, tablets, smartpohones):
       Wired: 10.1.2.0/24
       Wireless: 10.1.2.128/25
-    
+
+  Access control and Security policies (Task 4):
+  - Advisable to implement access access controls for every subnet to guarantee a secure and well-structured network environment
+  - Policies within on-premise Firewall should oversee user access to the subnets
+  - Azure Policies will be implemented later in security section
+  - Highly recommended to install firewalls at the network perimeter to effectively filter inbound/outbound traffic
+  - Intrusion Detection and Prevention System implementation:
+    Also highly recommended to implement at the network perimeter. Doing this will assist in continously monitoring network activities, ensuring
+    swift responses to any suspicious activity or possible intrusion threats
