@@ -264,4 +264,9 @@ Ground floor subnets:
 
   # Conclusion
   - Here is a summary of a cybersecurity proposal for VIP EVENTS:
-    In the "gathering requirments" section, company requirements and business operations were highlighted in order to gain a grasp of what is needed. Devices and     designated users were also considered
+      - In the "gathering requirments" section, company requirements and business operations were highlighted in order to gain a grasp of what is needed. Devices         and designated users were also considered
+      - The Creation of an Azure AD tenant for VIP EVENTS was mentioned above, including user accounts and group-role based access controls
+      - The fine-tuning of each user and which permissions each user, based on role inherit was described above to have seamless integration and job execution
+      - Integration of VIP FOOD app in order to streamline user authentication and authorization
+      - Proposal above also mentions implementing Policies to safeguard company assets, user accounts, IT Systems and operations, and company devices
+      - The cybersecurity proposal is to form a robust framework to safeguard VIP EVENTS' cybersecurity landscape. Ensure ongoing compliance with industry                standards and protecting against potential threats
