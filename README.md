@@ -250,7 +250,7 @@ Ground floor subnets:
     - Will need to creat a policy definition, which is a core component of Azure Policy. Ensuring that rules and resources meet conditions to stay compliant
 
    Network Configuration policy for web applications (Task 2):
-    - Azure Policy allows an organization to set pre-built policies and create custome policies
+    - Azure Policy allows an organization to set pre-built policies and create custom policies
     - VIP EVENTS can utilize a pre-built policy for this task, called "App Service Slots should only be accessible over HTTPS"
     - Scope should be selected for VIP FOOD app subscription
 
