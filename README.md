@@ -129,10 +129,36 @@ Ground floor subnets:
  
   User account configuration (Task 2):
   - List below is how each device is distributed amongst workforce at VIP EVENTS:
-    Desktop Computer:
-    - Office Workers: 3
-    - Equipment Manager: 1
-    - Catering Manager: 1
-    - Head Chef: 1
-    - CEO: 1
+    - Desktop Computer: total = 7 
+      - Office Workers: 3
+      - Equipment Manager: 1
+      - Catering Manager: 1
+      - Head Chef: 1
+      - CEO: 1
+    - Laptop computer: total = 3
+        - Chefs: 3
+    - Tablet: total = 11
+        - Equipment Handler: 4
+        - Equipment Manager: 1
+        - Catering Manager: 1
+        - Head Chef: 1
+        - Chefs: 3
+        - CEO: 1
+    - Mobile Phone: total = 32
+        - Temporary/Contractor: 30
+        - Catering Manager: 1
+        - CEO: 1
+
+    - NOTE: The Temporary/Contractors staff will use the guest subnet
+    - All users will have accounts created based on their specific role, department and group
+
+      - ALL USERS CREATED WILL HAVE Multi-Factor Authentication (MFA) enabled for security purposes
+
+  Group-based access control implementation (Task 3):
+  - Users will be catergorized into distinct groups based on roles
+  - All groups have limited access to functionalities in VIP FOODS APP
+      Equipment Handler group:
+        - Members: equip_handler_1 to 4
+      Equipment Manager group:
+        - Members: equip_manager
     
