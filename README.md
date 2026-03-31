@@ -188,3 +188,10 @@ Ground floor subnets:
     - Custom roles are to be created to align with groups and facilitated controlled access
     - Roles:
         - Equipment Manager: Tailored for equipment manager, granting access to have an overview and handling of equipment functionalities
+        - Equipment Handler: Tailored for equipment handlers, provides access to equipment management functionality on VIP FOOD app
+        - Head Chef: Tailored for head chef, provided higher access to overall kitchen management functionality
+        - Chef: Tailored for chefs, offers access to food preparation along with kitchen management functionality on VIP FOOD app
+        - Catering Manager: Tailored for catering manager, offering access to managing and planning for catering events functionalities on VIP FOOD app
+        - Office Worker: Tailored for office workers, providing access to office-related work and data management functionality on VIP FOOD app
+        - CEO: Tailored for CEO (owner), grants access to all functionality on VIP FOOD app for business/strategic insight
+        - Temporary/Contract: Tailored for temporary/contract workers, only providing limited access for a limited period of time to the VIP FOOD APP, followed             by  automatic disabling of access once job is done
