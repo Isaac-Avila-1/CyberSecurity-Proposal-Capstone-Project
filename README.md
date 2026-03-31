@@ -174,4 +174,17 @@ Ground floor subnets:
     - Temporary/Contractor group:
         - Members: user1_ext to however many are contracted for work
 
-  # Role and Access (Stage 3)
+  # Role and Access (Stage 3):
+  - Here we will describe the proposed Azure role and access configuration
+    VIP FOOD app integration (Task 1):
+    - Need to create an application registration with Azure AD (Entra ID)
+    - Name: VIP_Food_App_1
+      Supports single-tenants, which are just accounts in organization
+    - Will grant users access to specific functionality based on role
+    - After application registration, you'll have:
+      - name, client ID, tenant ID, Client Secret (name, expiration date, value, secret ID, rediret URL)
+
+    Custome Azure Role (Task 2):
+    - Custom roles are to be created to align with groups and facilitated controlled access
+    - Roles:
+        - Equipment Manager: Tailored for equipment manager, granting access to have an overview and handling of equipment functionalities
