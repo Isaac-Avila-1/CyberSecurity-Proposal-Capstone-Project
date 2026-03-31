@@ -203,7 +203,7 @@ Ground floor subnets:
     Mapping user groups to Azure Roles (Task 4):
     - mapping user groups to Azure roles to ensure that the right permissions and access controls are tailored for specifc responsibilities within organization
 
-# AAD Connections (Stage 4) :
+# AAD Connections (Stage 4):
 - This section provides specifications for testing and ensuring that VIP EVENTS can verify new authentication and access procedures are implemented correctly.
 
   Clien app integration (Task 1):
@@ -240,4 +240,24 @@ Ground floor subnets:
   - Check to see that the Azure AD portal aligns with documentation
   - Update documentation as frequently as possible, to stay update with any change that occurs
 
-# Policy Implementation (Stage 5)
+# Policy Implementation (Stage 5):
+- Implementation and creation of Azure Policies allows for a robust security framework for VIP EVENTS
+- Policies need to be set in place for password creation, authentication methods, network configuration for web applications
+
+  User authentication Policy (Task 1):
+    - Navigate to Azure Policy in Azure AD portal
+    - Select Policy
+    - Will need to creat a policy definition, which is a core component of Azure Policy. Ensuring that rules and resources meet conditions to stay compliant
+
+   Network Configuration policy for web applications (Task 2):
+    - Azure Policy allows an organization to set pre-built policies and create custome policies
+    - VIP EVENTS can utilize a pre-built policy for this task, called "App Service Slots should only be accessible over HTTPS"
+    - Scope should be selected for VIP FOOD app subscription
+
+    Testing in a non-production Environment (Task 3):
+    - Before fully applying policies onto production resources, recommended to test in a non-production environment
+    - Testing allows for organization to see behavior, unintended consequences or patterns
+    - Verifies policy effectiveness and alignment with organizational requirements
+    - Testing policies directly inside a production environment poses a threat to security and causes risks in compliance4
+    - With well-thought out policies and rigorous testing inside a non-production environment, VIP EVENTS can mitigate security risks,
+      protect company data assets, and ensure integrity of IT systems and operations
