@@ -112,3 +112,14 @@ Ground floor subnets:
     Visitor authentication:
     - To ensure heightened security, recommended for VIP EVENTS to streamline authentication process for guests
     - Implement a secure registration for individuals who aren't directly associated with VIP EVENTS
+
+# Azure Active Directory Setup (Stage 2):
+- They're a few tiers when creating a tenant for VIP EVENTS in Azure Active Directory.
+- Free, Office 365, P1, P2
+- Evaluating new on-premise building, application, users and requirements; scalability of business is crucial. Higher the tier, more expensive it is per user, per monthly
+- RECOMMENDED: suggest that VIP EVENTS follows through with a P1 subscription
+- P1 subscription:
+  Benefits of P1:
+  - We can set conditional access policies for users and which resources can be accessed
+  - Self service password reset (SSPR): feature included which will minimize admin work and allow users who register for this feature to reset their own password without help of admin. This allows Admins to take care of other work that requires more attention
+  - P1 includes all features which comes included in Free and Office 365 subscription tiers. 
