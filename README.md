@@ -19,4 +19,7 @@ This section will have details in regards to the scope of project, network desig
 
 - Info:
 - VIP Events is expanding its' workforce to 21 employees, bringing along 46 mobile devices and 7 fixed devices that will be required to have security access to the new network
-- Each floor will have it's devices segmentated within network for security purposes. 
+- Each floor will have it's devices segmentated within network for security purposes.
+- 32 mobile phones, 11 tablets, 3 laptops, 7 desktop computers
+- WorkStaff (total of 21):
+- CEO, Head Chef, Equipment Manager, 3 office workers, 10 head chefs, 4 equipment handlers. *Transient/Contractor employees*
