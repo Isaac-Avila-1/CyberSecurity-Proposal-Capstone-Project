@@ -157,8 +157,19 @@ Ground floor subnets:
   Group-based access control implementation (Task 3):
   - Users will be catergorized into distinct groups based on roles
   - All groups have limited access to functionalities in VIP FOODS APP
-      Equipment Handler group:
+    - Equipment Handler group:
         - Members: equip_handler_1 to 4
-      Equipment Manager group:
+    - Equipment Manager group:
         - Members: equip_manager
-    
+    - Chefs group:
+        - Members: chef1 to 10
+    - Head Chef group:
+        - Members: head_chef
+    - Catering Manager group:
+        - Members: catering_manager
+    - Office Workers group:
+        - Members: office_worker_1 to 3
+    - CEO (owner) group:
+        - Members: ceo_owner
+    - Temporary/Contractor group:
+        - Members: user1_ext to however many are contracted for work    
