@@ -37,3 +37,43 @@ BUILDING STRUCTURE AND NETWORK DESIGN (Task 2 & 3):
 - We will have network segmentation within the network. Guided by a defense in depth priniciple, this will protect the network from any unauthorized access to information or data. By preventing unilateral movement and safeguarding assets, this will reduce the risk of potential threats.
 - Network architecture suggested below will have subnets for both wired/wireless devices on-premise
 - Each subnet has role-based restrictions for those with specific roles within the floor they're working on.
+
+Ground floor subnets:
+- Equipment handlers:
+  Wired: 10.0.1.0/26
+  Wireless: 10.0.1.128/26
+- Equipment Manager:
+  Wired: 10.0.1.68/26
+  Wireless: 10.0.1.192/26
+
+   First floor subnets:
+  - Chefs:
+    Wired: 10.0.2.0/26
+    Wireless: 10.0.2.128/26
+  - Head Chef:
+    Wired:10.0.2.68/26
+    Wireless: 10.0.2.192/26
+  - Catering Manager:
+    Wired: 10.0.2.128/26
+    Wireless: 10.0.2.0/26
+
+    Second Floor subnets:
+    - Office Workers:
+      Wired: 10.0.3.0/26
+      Wireless: 10.0.3.128/26
+    - CEO:
+      Wired: 10.0.3.64/26
+      Wireless: 10.0.3.128/26
+
+    Production subnets (servers, printers, systems):
+      Wired: 10.1.0.0/24
+      Wireless: 10.1.0.128/25
+
+    Management subnets (routers, switches, firewalls):
+      Wired: 10.1.1.0/24
+      Wireless: 10.1.1.128/25
+
+    Guest/Temporary subnets (laptops, tablets, smartpohones):
+      Wired: 10.1.2.0/24
+      Wireless: 10.1.2.128/25
+    
