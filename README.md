@@ -258,7 +258,7 @@ Ground floor subnets:
     - Before fully applying policies onto production resources, recommended to test in a non-production environment
     - Testing allows for organization to see behavior, unintended consequences or patterns
     - Verifies policy effectiveness and alignment with organizational requirements
-    - Testing policies directly inside a production environment poses a threat to security and causes risks in compliance4
+    - Testing policies directly inside a production environment poses a threat to security and causes risks in compliance
     - With well-thought out policies and rigorous testing inside a non-production environment, VIP EVENTS can mitigate security risks,
       protect company data assets, and ensure integrity of IT systems and operations
 
