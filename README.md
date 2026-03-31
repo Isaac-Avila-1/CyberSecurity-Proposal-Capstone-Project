@@ -85,3 +85,30 @@ Ground floor subnets:
   - Intrusion Detection and Prevention System implementation:
     Also highly recommended to implement at the network perimeter. Doing this will assist in continously monitoring network activities, ensuring
     swift responses to any suspicious activity or possible intrusion threats
+
+  User roles and Access requirements (Task 5):
+  - Azure AD Tenant should be configured along with user accounts being created which includes their specific roles within company.
+  - Assigning roles directly within the group, for seamless approach to resource management
+  - Integrate tenant with VIP FOOD APP to streamline user authentication and authorization
+  - Specific roles will have specific features within APP based on their role within company
+ 
+  Physical Security (Task 6):
+  - Robust ID-based access control system should be required to effectively regulate entry and exit points within physical premises
+  - By doing this, authorized employees have access to the designated areas to which they're authorized to be in, within the building.
+  - Integration of ID-based access control system with Azure Active Directory is highly recommended to have a centralized point of authentication, enabling Azure AD's robust features for advanced identity management and access policies
+
+    Door and Main entrance integration:
+    - VIP Events should also extend these security measures for the main entrance and doors in building
+    - Extra layer of security always contributes to safety and exclusivity of on-premise location, protecting against unauthorized access
+
+    CCTV integration:
+    - Cameras should be strategically placed to provide comprehensive surveillance footage
+    - CCTV system can also be integrated with the exisiting access-control system
+
+    Real-time monitoring:
+    - Utilizing real-time monitoring can complement physical security features
+    - Security Personnel to aide with observing access logs, handling alerts from unauthorized access or anomalies
+   
+    Visitor authentication:
+    - To ensure heightened security, recommended for VIP EVENTS to streamline authentication process for guests
+    - Implement a secure registration for individuals who aren't directly associated with VIP EVENTS
