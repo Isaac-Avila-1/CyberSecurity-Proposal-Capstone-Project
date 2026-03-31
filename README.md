@@ -195,3 +195,49 @@ Ground floor subnets:
         - Office Worker: Tailored for office workers, providing access to office-related work and data management functionality on VIP FOOD app
         - CEO: Tailored for CEO (owner), grants access to all functionality on VIP FOOD app for business/strategic insight
         - Temporary/Contract: Tailored for temporary/contract workers, only providing limited access for a limited period of time to the VIP FOOD APP, followed             by  automatic disabling of access once job is done
+     
+    Assigning permissions to Azure roles (Task 3):
+    - Details of application and roles under Azure Active Directory should be provided to application developers for implementatio of role-based access controls
+    - This ensures seamless integration with application structure
+
+    Mapping user groups to Azure Roles (Task 4):
+    - mapping user groups to Azure roles to ensure that the right permissions and access controls are tailored for specifc responsibilities within organization
+
+# AAD Connections (Stage 4) :
+- This section provides specifications for testing and ensuring that VIP EVENTS can verify new authentication and access procedures are implemented correctly.
+
+  Clien app integration (Task 1):
+  - Test out the Azure login functionality by signing into the VIP FOOD app with designated user account to check for integration
+  - RBAC testing is also considered when signing into app with designated user account to see if role has correct permissions based on group membership
+  - To check Azure AD authentication, follow Azure AD authentication prompts
+  - Rigorously testing by entering different Azure AD credentials for seamless app operation
+
+  User account Validation (Task 2):
+  - Begin logging into Azure AD portal with designated user credentials
+  - Look over list to confirm creation of necessary user accounts
+  - Verify job attributes per user to ensure that all information is correct, such as job and department
+
+  Application role assignment (Task 3):
+  - Choose VIP FOOD app and select "Roles and Administrators"
+  - Review user-role assignments, to make sure they align with organizational needs
+
+  Group/Role-based access testing (Task 4):
+  - Create a test user account
+  - Assign test user account to any specific user group
+  - By assigning the test user account to a specific user group, this will allow you to see if based on group/role permissions, they have certain functionality       within the VIP FOOD app
+
+  MFA Verification (Task 5):
+  - Log into the Azure AD portal
+  - Navigate to "Security" and select "Multi-Factor Authentication" for further details
+  - By going over list of designated user accounts, verify to ensure that MFA is enabled for each account
+
+  Logging and Monitoring (Task 6):
+  - To access audit logs, go to "Monitoring" and select "Audit logs for comprehensive monitoring"
+  - By going over logs, good to notice patterns and identify irregular activities such as failed login-attempts or changed permissions
+
+  Documentation Review (Task 7):
+  - Rigorously review Azure AD configuration documentation
+  - Check to see that the Azure AD portal aligns with documentation
+  - Update documentation as frequently as possible, to stay update with any change that occurs
+
+# Policy Implementation (Stage 5)
