@@ -10,3 +10,9 @@ This is a repo to showcase a CyberSecurity Proposal Project transforming busines
 
 # Company Requirements (Stage 1)
 This section will have details in regards to the scope of project, network design along with required tasks to implement identified network architecture.
+
+- VIP EVENTS' cybersecurity requirements (Task 1)
+  VIP Events company is relocating to a brand new 3-story building to upscale business operations.
+  - Ground floor: Loading dock/storage space for machinery
+  - First floor: Food prepartion, Kitchen and storage
+  - Second floor: Office space and conference rooms
