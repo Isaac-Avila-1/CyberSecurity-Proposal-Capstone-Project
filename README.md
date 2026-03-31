@@ -172,4 +172,6 @@ Ground floor subnets:
     - CEO (owner) group:
         - Members: ceo_owner
     - Temporary/Contractor group:
-        - Members: user1_ext to however many are contracted for work    
+        - Members: user1_ext to however many are contracted for work
+
+  # Role and Access (Stage 3)
