@@ -33,7 +33,7 @@ VIP FOOD APP: functionalities
 - Administration
 
 
-- BUILDING STRUCTURE AND NETWORK DESIGN (Task 2 & 3):
+BUILDING STRUCTURE AND NETWORK DESIGN (Task 2 & 3):
 - We will have network segmentation within the network. Guided by a defense in depth priniciple, this will protect the network from any unauthorized access to information or data. By preventing unilateral movement and safeguarding assets, this will reduce the risk of potential threats.
 - Network architecture suggested below will have subnets for both wired/wireless devices on-premise
 - Each subnet has role-based restrictions for those with specific roles within the floor they're working on.
