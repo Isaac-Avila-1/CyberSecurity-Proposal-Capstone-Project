@@ -122,4 +122,17 @@ Ground floor subnets:
   Benefits of P1:
   - We can set conditional access policies for users and which resources can be accessed
   - Self service password reset (SSPR): feature included which will minimize admin work and allow users who register for this feature to reset their own password without help of admin. This allows Admins to take care of other work that requires more attention
-  - P1 includes all features which comes included in Free and Office 365 subscription tiers. 
+  - P1 includes all features which comes included in Free and Office 365 subscription tiers.
+ 
+  Azure AD Tenant (Task 1):
+  - Azure AD Tenant should be created for seamless integration with organization's structure
+ 
+  User account configuration (Task 2):
+  - List below is how each device is distributed amongst workforce at VIP EVENTS:
+    Desktop Computer:
+    - Office Workers: 3
+    - Equipment Manager: 1
+    - Catering Manager: 1
+    - Head Chef: 1
+    - CEO: 1
+    
